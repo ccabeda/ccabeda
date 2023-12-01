@@ -1,7 +1,7 @@
 ### Hola 👋 Soy Agustin, un gusto!
 
 ---
-
+Como estudiante en formación como desarrollador .NET Backend en la Universidad Nacional Arturo Jauretche, mi enfoque está orientado hacia la adquisición de nuevos conocimientos y habilidades. Busco constantemente mejorar y aprender.
 
 ---
 💹 Github Stats
