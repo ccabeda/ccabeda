@@ -1,8 +1,14 @@
-### Hola 👋 Soy Agustin, un gusto!
+<div id="header" align="center">
+    <h1 align="center">Hola 👋, soy Agustin Cabeda</h1>
+</div>
 
----
-Como estudiante en formación de desarrollador .NET Backend en la Universidad Nacional Arturo Jauretche, mi enfoque está orientado hacia la adquisición de nuevos conocimientos y habilidades. Busco constantemente mejorar y aprender.
 
+### 👨‍💻 Sobre mi :
+
+- 📝 Como estudiante en formación de desarrollador .NET Backend en la Universidad Nacional Arturo Jauretche, mi enfoque está orientado hacia la adquisición de nuevos conocimientos y habilidades. Busco constantemente mejorar y aprender.
+- 📫 Me pueden contactar por:
+    - Email: **cabeda52@gmail.com**
+    - LinkedIn: <a href="https://www.linkedin.com/in/agustin-cabeda-/" target="_blank">Agustin Cabeda</a>
 ---
 💹 Github Stats
 
