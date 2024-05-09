@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Sobre mi :
 
-- 📝 Como estudiante en formación de desarrollador .NET Backend en la Universidad Nacional Arturo Jauretche, mi enfoque está orientado hacia la adquisición de nuevos conocimientos y habilidades. Busco constantemente mejorar y aprender.
+- 📝 Estudiante en formación de desarrollador .NET Backend en la Universidad Nacional Arturo Jauretche, mi enfoque está orientado hacia la adquisición de nuevos conocimientos y habilidades. Busco constantemente mejorar y aprender.
 - 📫 Me pueden contactar por:
     - Email: **cabeda52@gmail.com**
 ---
